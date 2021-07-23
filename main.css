@@ -175,7 +175,7 @@ img.profile-pic {
 	font-size: 0.8em;
 	border-radius: 5em;
 	border: 1px solid #efb7a7;
-	box-shadow: 2px 2px 4px #5555;
+	box-shadow: 2px 2px 4px rgb(0 0 0 / 15%);
 	color: #a64622;
 	font-weight: 700;
 	white-space: nowrap;
