@@ -158,9 +158,12 @@ img.profile-pic {
 
 .bottom {
 	height: 25%;
-	margin-top: 5%;
+	margin-top: 6%;
 }
-
+.bottom-btn {
+	height: 25%;
+	margin-top: 3%;
+}
 .button {
 	background-color: #ffffff;
 	padding: 8px 16px;
