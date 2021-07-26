@@ -125,6 +125,13 @@ img.profile-pic {
     font-size: 1em;
     text-align: center;
 }
+.text-title-company-chinese {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 0.7em;
+    text-align: center;
+}
 
 .text-detail {
     font-family: 'Lato', sans-serif;
